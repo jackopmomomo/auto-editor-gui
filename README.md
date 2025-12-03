@@ -2,6 +2,7 @@
 長時間録画にも対応しています～！
 
 Fork元：＠WyattBlue氏に多大なる感謝を込めて！
+（日本語・English両対応）
 
 <p align="center"><img src="https://auto-editor.com/img/auto-editor-banner.webp" title="Auto-Editor" width="700"></p>
 
