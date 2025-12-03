@@ -1,6 +1,8 @@
 無音部分、喋ってない無声部分を、自動でカットした動画を出力してくれるソフトウェア！
 長時間録画にも対応しています～！
 
+Fork元：＠WyattBlue氏に多大なる感謝を込めて！
+
 <p align="center"><img src="https://auto-editor.com/img/auto-editor-banner.webp" title="Auto-Editor" width="700"></p>
 
 **Auto-Editor** is a command line application for automatically **editing video and audio** by analyzing a variety of methods, most notably audio loudness.
