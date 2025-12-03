@@ -1,0 +1,3 @@
+customtkinter
+auto-editor
+pyinstaller
